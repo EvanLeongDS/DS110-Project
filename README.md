@@ -1,0 +1,1 @@
+All of my project is in the ipynb. The project consists of data cleaning of the dataset, putting the cleaned dataset into Sci-Kit Learn and performing three trials of random forest, and then summarizing my findings using pandas and seaborn.
